@@ -1,2 +1,2 @@
-# paperthrow
-Throw some paper into a trash can.
+# p5.play-boilerplate
+Boiler plate for p5.play
